@@ -3,6 +3,4 @@
 print 'Hello world!';
 
 
-
-
 ?>
